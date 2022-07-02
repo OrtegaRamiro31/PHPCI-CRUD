@@ -32,9 +32,9 @@ class Database extends Config
      */
     public $default = [
         'DSN'      => '',
-        'hostname' => 'crudramiro.mysql.database.azure.com',
-        'username' => 'ramiro@crudramiro',
-        'password' => 'hwzkojyv21!',
+        'hostname' => 'localhost',
+        'username' => 'root',
+        'password' => '',
         'database' => 'biblioteca',
         'DBDriver' => 'MySQLi',
         'DBPrefix' => '',
